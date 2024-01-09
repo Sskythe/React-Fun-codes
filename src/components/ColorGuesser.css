@@ -1,0 +1,23 @@
+/* styles.css */
+.block {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw; /* Set the width of the container to 100% of the viewport width */
+    height: 100vh; /* Set the height of the container to 100% of the viewport height */
+  }
+  
+  .middle {
+    width: 200px;
+    height: 200px;
+    border-color: white;
+    /* Add any additional styles for the centered div */
+  }
+  .btns{
+    display: flex;
+    gap: 6px;
+    padding-top: 10px;
+    
+  }
+  
